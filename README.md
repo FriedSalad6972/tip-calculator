@@ -12,6 +12,8 @@ Optional features
 
 ## video walkthrough
 
+![](ezgif.com-gif-maker.gif)
+
 ## notes 
 
 ## license
