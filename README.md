@@ -13,7 +13,7 @@ Optional features
 
 ## video walkthrough
 
-![](ezgif.com-gif-maker.gif)
+![](tip.gif)
 
 ## notes 
 
