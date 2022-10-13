@@ -6,6 +6,7 @@ Time spent: two hours
 ## Features
 * [X] user enters bill amount, chooses a tip percentage, and sees total cost
 * [X] user can select between tip percentages by tapping different values on the segmented control and the tip value is updated thoroughly.
+* [X] user can click on donate button that links to url
 
 Optional features 
 *[] Making sure the keyboard is always visible and the bill amount is always the first responder
